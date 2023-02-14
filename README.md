@@ -1,0 +1,2 @@
+# frist
+birinchi project
